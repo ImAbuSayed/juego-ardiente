@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Juego ardiente
+
+This log tracks the cryptographic history and versioning for the song **Juego ardiente** (juego-ardiente).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-17T02:30:02.997490 | `v1` | `00a4e74c62b6feb5c5ba5a744374e488774a786686b7cbc57d6d5412082b81b8` | `e5dc99c62e6a5012bcb3c62f7a083b3f44a77633de562dc5fad97f5fb725cbb2` | `2026-06-17_juego-ardiente-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
