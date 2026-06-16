@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/juego-ardiente/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Juego ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-ardiente/) |
+| **Get License** | [Get a Licensing Quote for Juego ardiente](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/juego-ardiente/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está ardiendo, dime si vienes conmigo
+> Tus ojos me llaman de lejos, este deseo es un castigo
+> Nos perdemos por Barcelona, la ciudad es nuestro testigo
+> Un juego ardiente en la pista, sabes que yo no te obligo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
